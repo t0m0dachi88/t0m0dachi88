@@ -1,4 +1,4 @@
-# Hi, I'm Irfan 👋
+# Hi, I'm Tomo 👋
 ### ML & Backend Developer |  AI/ML Enthusiast
 
 ![Welcome](https://img.shields.io/badge/Welcome-👋-blue)
