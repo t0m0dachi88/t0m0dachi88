@@ -3,7 +3,7 @@
 
 ![Welcome](https://img.shields.io/badge/Welcome-👋-blue)
 I'm a self-driven ML Engineer and Backend Developer who thrives at the intersection of intelligent systems and scalable infrastructure
-
+<img src="http://gitfut.com/t0m0dachi88.png" width="240" alt="GitFut card">
 
 
 ## 💻 Tech Stack
