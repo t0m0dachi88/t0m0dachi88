@@ -12,7 +12,4 @@ I'm a self-driven ML Engineer and Backend Developer who thrives at the intersect
   <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,react,nodejs,docker,git,github,html,css,tailwind" />
 </p>
 
-## 🌐 Connect with Me
 
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=vercel)](https://irfan-sadik.vercel.app/)
