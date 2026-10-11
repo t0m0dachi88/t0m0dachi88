@@ -32,9 +32,9 @@ W = 490
 
 
 def stats():
-    st = json.load(open(os.environ.get("CONTRIB_JSON") or os.path.join(ROOT, "data", "contributions.json")))["stats"]
-    return [(f'{st["total"]:,}', "contributions"), (f'{st["longest_streak"]}d', "longest streak"),
-            (f'{st["current_streak"]}d', "current streak"), (str(st["active_days"]), "active days")]
+    # only facts that come from profile.json, never invented activity numbers
+    return [("Open", "to work"), (str(len(HIGHLIGHTS)), "featured projects"),
+            (str(len(STACK)), "core technologies"), ("ML", "+ backend focus")]
 
 
 def card(H):
