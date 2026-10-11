@@ -25,7 +25,7 @@
 
 <h3><code>~/tomodachi $ ./stats.sh</code></h3>
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=t0m0dachi88&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=t0m0dachi88&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true"/>
 <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=t0m0dachi88&theme=github-dark-blue&hide_border=true&background=0d1117"/>
 
 <br><br>
