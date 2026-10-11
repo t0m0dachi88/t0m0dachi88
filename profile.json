@@ -1,0 +1,21 @@
+{
+  "github_username": "t0m0dachi88",
+  "handle": "tomodachi",
+  "name": "Tomodachi",
+  "tagline": "ML & Backend Developer | AI/ML Enthusiast",
+
+  "now": { "role": "Independent Developer", "where": "@ Open to work" },
+  "creating": "Real-time backends, microservices and AI-powered apps",
+  "stack": ["MERN", "PERN", "TypeScript", "WebSockets", "NestJS (learning)"],
+  "highlights": [
+    "VChess: real-time multiplayer chess with live WebRTC video calls",
+    "Banking ledger: double-entry API, idempotent transfers",
+    "Kern: TypeScript coding-agent harness with tool use and safety limits"
+  ],
+
+  "headline": "Independent Developer · ML & Backend · Open to work",
+  "links": { "email": "", "instagram": "", "linkedin": "", "x": "", "youtube": "", "website": "" },
+
+  "heatmap": { "total": 250, "seed": 29, "end_date": "" },
+  "portrait": { "crop": "" }
+}
