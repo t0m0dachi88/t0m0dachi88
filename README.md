@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td valign="top"><img src="./assets/ascii-portrait.svg" width="370" alt="ASCII portrait of Tomodachi"/></td>
-    <td valign="top"><img src="./assets/info-card.svg" width="490" alt="Tomodachi · ML &amp; Backend Developer | AI/ML Enthusiast"/></td>
+    <td valign="top"><img src="./assets/info-card.svg" width="490" alt="Tomodachi · AI &amp; Backend Engineer | "/></td>
   </tr>
 </table>
 
@@ -38,7 +38,7 @@
 
 <h3><code>~/tomodachi $ ./links.sh</code></h3>
 
-<p><b>Independent Developer · ML &amp; Backend · Open to work</b></p>
+<p><b>Independent Developer · AI &amp; Backend · Open to work</b></p>
 
 
 
