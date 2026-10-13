@@ -140,7 +140,7 @@
 <rect class="c" style="animation-delay:0.64s" x="287.2" y="90.8" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Feb 05</title></rect>
 <rect class="c" style="animation-delay:0.68s" x="287.2" y="106.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Feb 06</title></rect>
 <rect class="c" style="animation-delay:0.71s" x="287.2" y="121.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Feb 07</title></rect>
-<rect class="c" style="animation-delay:0.52s" x="302.4" y="30.0" width="12" height="12" rx="2.5" fill="#39d353"><title>4 on Feb 08</title></rect>
+<rect class="c hot" style="animation-delay:0.52s" x="302.4" y="30.0" width="12" height="12" rx="2.5" fill="#7cffcb"><title>4 on Feb 08</title></rect>
 <rect class="c" style="animation-delay:0.56s" x="302.4" y="45.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Feb 09</title></rect>
 <rect class="c" style="animation-delay:0.59s" x="302.4" y="60.4" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Feb 10</title></rect>
 <rect class="c" style="animation-delay:0.63s" x="302.4" y="75.6" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Feb 11</title></rect>
@@ -151,7 +151,7 @@
 <rect class="c" style="animation-delay:0.58s" x="317.6" y="45.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Feb 16</title></rect>
 <rect class="c" style="animation-delay:0.62s" x="317.6" y="60.4" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Feb 17</title></rect>
 <rect class="c" style="animation-delay:0.65s" x="317.6" y="75.6" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Feb 18</title></rect>
-<rect class="c" style="animation-delay:0.69s" x="317.6" y="90.8" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on Feb 19</title></rect>
+<rect class="c" style="animation-delay:0.69s" x="317.6" y="90.8" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on Feb 19</title></rect>
 <rect class="c" style="animation-delay:0.72s" x="317.6" y="106.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Feb 20</title></rect>
 <rect class="c" style="animation-delay:0.76s" x="317.6" y="121.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Feb 21</title></rect>
 <rect class="c" style="animation-delay:0.57s" x="332.8" y="30.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Feb 22</title></rect>
@@ -225,39 +225,39 @@
 <rect class="c" style="animation-delay:0.94s" x="469.6" y="106.0" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on May 01</title></rect>
 <rect class="c" style="animation-delay:0.98s" x="469.6" y="121.2" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on May 02</title></rect>
 <rect class="c" style="animation-delay:0.79s" x="484.8" y="30.0" width="12" height="12" rx="2.5" fill="#26a641"><title>2 on May 03</title></rect>
-<rect class="c" style="animation-delay:0.82s" x="484.8" y="45.2" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on May 04</title></rect>
+<rect class="c" style="animation-delay:0.82s" x="484.8" y="45.2" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on May 04</title></rect>
 <rect class="c" style="animation-delay:0.86s" x="484.8" y="60.4" width="12" height="12" rx="2.5" fill="#26a641"><title>2 on May 05</title></rect>
 <rect class="c hot" style="animation-delay:0.89s" x="484.8" y="75.6" width="12" height="12" rx="2.5" fill="#7cffcb"><title>5 on May 06</title></rect>
 <rect class="c hot" style="animation-delay:0.93s" x="484.8" y="90.8" width="12" height="12" rx="2.5" fill="#7cffcb"><title>5 on May 07</title></rect>
 <rect class="c" style="animation-delay:0.96s" x="484.8" y="106.0" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on May 08</title></rect>
 <rect class="c" style="animation-delay:1.00s" x="484.8" y="121.2" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on May 09</title></rect>
 <rect class="c" style="animation-delay:0.81s" x="500.0" y="30.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on May 10</title></rect>
-<rect class="c" style="animation-delay:0.84s" x="500.0" y="45.2" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on May 11</title></rect>
-<rect class="c" style="animation-delay:0.88s" x="500.0" y="60.4" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on May 12</title></rect>
+<rect class="c" style="animation-delay:0.84s" x="500.0" y="45.2" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on May 11</title></rect>
+<rect class="c" style="animation-delay:0.88s" x="500.0" y="60.4" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on May 12</title></rect>
 <rect class="c" style="animation-delay:0.91s" x="500.0" y="75.6" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on May 13</title></rect>
 <rect class="c" style="animation-delay:0.95s" x="500.0" y="90.8" width="12" height="12" rx="2.5" fill="#26a641"><title>2 on May 14</title></rect>
 <rect class="c" style="animation-delay:0.98s" x="500.0" y="106.0" width="12" height="12" rx="2.5" fill="#26a641"><title>2 on May 15</title></rect>
 <rect class="c hot" style="animation-delay:1.02s" x="500.0" y="121.2" width="12" height="12" rx="2.5" fill="#7cffcb"><title>6 on May 16</title></rect>
-<rect class="c" style="animation-delay:0.83s" x="515.2" y="30.0" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on May 17</title></rect>
+<rect class="c" style="animation-delay:0.83s" x="515.2" y="30.0" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on May 17</title></rect>
 <rect class="c hot" style="animation-delay:0.87s" x="515.2" y="45.2" width="12" height="12" rx="2.5" fill="#7cffcb"><title>12 on May 18</title></rect>
 <rect class="c" style="animation-delay:0.90s" x="515.2" y="60.4" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on May 19</title></rect>
-<rect class="c" style="animation-delay:0.94s" x="515.2" y="75.6" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on May 20</title></rect>
-<rect class="c" style="animation-delay:0.97s" x="515.2" y="90.8" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on May 21</title></rect>
+<rect class="c" style="animation-delay:0.94s" x="515.2" y="75.6" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on May 20</title></rect>
+<rect class="c" style="animation-delay:0.97s" x="515.2" y="90.8" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on May 21</title></rect>
 <rect class="c" style="animation-delay:1.01s" x="515.2" y="106.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on May 22</title></rect>
 <rect class="c" style="animation-delay:1.04s" x="515.2" y="121.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on May 23</title></rect>
 <rect class="c" style="animation-delay:0.85s" x="530.4" y="30.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on May 24</title></rect>
 <rect class="c" style="animation-delay:0.89s" x="530.4" y="45.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on May 25</title></rect>
 <rect class="c" style="animation-delay:0.92s" x="530.4" y="60.4" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on May 26</title></rect>
-<rect class="c" style="animation-delay:0.96s" x="530.4" y="75.6" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on May 27</title></rect>
+<rect class="c" style="animation-delay:0.96s" x="530.4" y="75.6" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on May 27</title></rect>
 <rect class="c" style="animation-delay:0.99s" x="530.4" y="90.8" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on May 28</title></rect>
 <rect class="c" style="animation-delay:1.03s" x="530.4" y="106.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on May 29</title></rect>
 <rect class="c" style="animation-delay:1.06s" x="530.4" y="121.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on May 30</title></rect>
 <rect class="c" style="animation-delay:0.88s" x="545.6" y="30.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on May 31</title></rect>
 <rect class="c" style="animation-delay:0.91s" x="545.6" y="45.2" width="12" height="12" rx="2.5" fill="#26a641"><title>2 on Jun 01</title></rect>
 <rect class="c" style="animation-delay:0.95s" x="545.6" y="60.4" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Jun 02</title></rect>
-<rect class="c" style="animation-delay:0.98s" x="545.6" y="75.6" width="12" height="12" rx="2.5" fill="#39d353"><title>4 on Jun 03</title></rect>
+<rect class="c hot" style="animation-delay:0.98s" x="545.6" y="75.6" width="12" height="12" rx="2.5" fill="#7cffcb"><title>4 on Jun 03</title></rect>
 <rect class="c" style="animation-delay:1.02s" x="545.6" y="90.8" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on Jun 04</title></rect>
-<rect class="c" style="animation-delay:1.05s" x="545.6" y="106.0" width="12" height="12" rx="2.5" fill="#39d353"><title>4 on Jun 05</title></rect>
+<rect class="c hot" style="animation-delay:1.05s" x="545.6" y="106.0" width="12" height="12" rx="2.5" fill="#7cffcb"><title>4 on Jun 05</title></rect>
 <rect class="c" style="animation-delay:1.09s" x="545.6" y="121.2" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on Jun 06</title></rect>
 <rect class="c" style="animation-delay:0.90s" x="560.8" y="30.0" width="12" height="12" rx="2.5" fill="#26a641"><title>2 on Jun 07</title></rect>
 <rect class="c" style="animation-delay:0.93s" x="560.8" y="45.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Jun 08</title></rect>
@@ -266,18 +266,18 @@
 <rect class="c" style="animation-delay:1.04s" x="560.8" y="90.8" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on Jun 11</title></rect>
 <rect class="c" style="animation-delay:1.07s" x="560.8" y="106.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Jun 12</title></rect>
 <rect class="c" style="animation-delay:1.11s" x="560.8" y="121.2" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on Jun 13</title></rect>
-<rect class="c" style="animation-delay:0.92s" x="576.0" y="30.0" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on Jun 14</title></rect>
+<rect class="c" style="animation-delay:0.92s" x="576.0" y="30.0" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on Jun 14</title></rect>
 <rect class="c" style="animation-delay:0.95s" x="576.0" y="45.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Jun 15</title></rect>
 <rect class="c" style="animation-delay:0.99s" x="576.0" y="60.4" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Jun 16</title></rect>
 <rect class="c" style="animation-delay:1.02s" x="576.0" y="75.6" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Jun 17</title></rect>
 <rect class="c" style="animation-delay:1.06s" x="576.0" y="90.8" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Jun 18</title></rect>
 <rect class="c" style="animation-delay:1.09s" x="576.0" y="106.0" width="12" height="12" rx="2.5" fill="#26a641"><title>2 on Jun 19</title></rect>
 <rect class="c" style="animation-delay:1.13s" x="576.0" y="121.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Jun 20</title></rect>
-<rect class="c" style="animation-delay:0.94s" x="591.2" y="30.0" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on Jun 21</title></rect>
+<rect class="c" style="animation-delay:0.94s" x="591.2" y="30.0" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on Jun 21</title></rect>
 <rect class="c" style="animation-delay:0.98s" x="591.2" y="45.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Jun 22</title></rect>
-<rect class="c" style="animation-delay:1.01s" x="591.2" y="60.4" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on Jun 23</title></rect>
+<rect class="c" style="animation-delay:1.01s" x="591.2" y="60.4" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on Jun 23</title></rect>
 <rect class="c" style="animation-delay:1.05s" x="591.2" y="75.6" width="12" height="12" rx="2.5" fill="#26a641"><title>2 on Jun 24</title></rect>
-<rect class="c" style="animation-delay:1.08s" x="591.2" y="90.8" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on Jun 25</title></rect>
+<rect class="c" style="animation-delay:1.08s" x="591.2" y="90.8" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on Jun 25</title></rect>
 <rect class="c" style="animation-delay:1.12s" x="591.2" y="106.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Jun 26</title></rect>
 <rect class="c" style="animation-delay:1.15s" x="591.2" y="121.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Jun 27</title></rect>
 <rect class="c" style="animation-delay:0.96s" x="606.4" y="30.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Jun 28</title></rect>
@@ -344,7 +344,7 @@
 <rect class="c" style="animation-delay:1.31s" x="728.0" y="106.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Aug 28</title></rect>
 <rect class="c" style="animation-delay:1.35s" x="728.0" y="121.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Aug 29</title></rect>
 <rect class="c" style="animation-delay:1.16s" x="743.2" y="30.0" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on Aug 30</title></rect>
-<rect class="c" style="animation-delay:1.20s" x="743.2" y="45.2" width="12" height="12" rx="2.5" fill="#39d353"><title>4 on Aug 31</title></rect>
+<rect class="c hot" style="animation-delay:1.20s" x="743.2" y="45.2" width="12" height="12" rx="2.5" fill="#7cffcb"><title>4 on Aug 31</title></rect>
 <rect class="c" style="animation-delay:1.23s" x="743.2" y="60.4" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on Sep 01</title></rect>
 <rect class="c" style="animation-delay:1.27s" x="743.2" y="75.6" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Sep 02</title></rect>
 <rect class="c" style="animation-delay:1.30s" x="743.2" y="90.8" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Sep 03</title></rect>
@@ -356,7 +356,7 @@
 <rect class="c" style="animation-delay:1.29s" x="758.4" y="75.6" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Sep 09</title></rect>
 <rect class="c" style="animation-delay:1.32s" x="758.4" y="90.8" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Sep 10</title></rect>
 <rect class="c" style="animation-delay:1.36s" x="758.4" y="106.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Sep 11</title></rect>
-<rect class="c" style="animation-delay:1.39s" x="758.4" y="121.2" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on Sep 12</title></rect>
+<rect class="c" style="animation-delay:1.39s" x="758.4" y="121.2" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on Sep 12</title></rect>
 <rect class="c" style="animation-delay:1.21s" x="773.6" y="30.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Sep 13</title></rect>
 <rect class="c" style="animation-delay:1.24s" x="773.6" y="45.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Sep 14</title></rect>
 <rect class="c" style="animation-delay:1.28s" x="773.6" y="60.4" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Sep 15</title></rect>
@@ -371,13 +371,13 @@
 <rect class="c" style="animation-delay:1.37s" x="788.8" y="90.8" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Sep 24</title></rect>
 <rect class="c" style="animation-delay:1.40s" x="788.8" y="106.0" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on Sep 25</title></rect>
 <rect class="c" style="animation-delay:1.44s" x="788.8" y="121.2" width="12" height="12" rx="2.5" fill="#26a641"><title>2 on Sep 26</title></rect>
-<rect class="c" style="animation-delay:1.25s" x="804.0" y="30.0" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on Sep 27</title></rect>
+<rect class="c" style="animation-delay:1.25s" x="804.0" y="30.0" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on Sep 27</title></rect>
 <rect class="c" style="animation-delay:1.28s" x="804.0" y="45.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Sep 28</title></rect>
 <rect class="c" style="animation-delay:1.32s" x="804.0" y="60.4" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on Sep 29</title></rect>
 <rect class="c" style="animation-delay:1.35s" x="804.0" y="75.6" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on Sep 30</title></rect>
 <rect class="c" style="animation-delay:1.39s" x="804.0" y="90.8" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Oct 01</title></rect>
 <rect class="c" style="animation-delay:1.42s" x="804.0" y="106.0" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Oct 02</title></rect>
-<rect class="c" style="animation-delay:1.46s" x="804.0" y="121.2" width="12" height="12" rx="2.5" fill="#26a641"><title>3 on Oct 03</title></rect>
+<rect class="c" style="animation-delay:1.46s" x="804.0" y="121.2" width="12" height="12" rx="2.5" fill="#39d353"><title>3 on Oct 03</title></rect>
 <rect class="c" style="animation-delay:1.27s" x="819.2" y="30.0" width="12" height="12" rx="2.5" fill="#006d32"><title>1 on Oct 04</title></rect>
 <rect class="c" style="animation-delay:1.31s" x="819.2" y="45.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Oct 05</title></rect>
 <rect class="c" style="animation-delay:1.34s" x="819.2" y="60.4" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Oct 06</title></rect>
@@ -386,9 +386,10 @@
 <rect class="c hot" style="animation-delay:1.45s" x="819.2" y="106.0" width="12" height="12" rx="2.5" fill="#7cffcb"><title>6 on Oct 09</title></rect>
 <rect class="c" style="animation-delay:1.48s" x="819.2" y="121.2" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Oct 10</title></rect>
 <rect class="c hot" style="animation-delay:1.29s" x="834.4" y="30.0" width="12" height="12" rx="2.5" fill="#7cffcb"><title>10 on Oct 11</title></rect>
-<rect class="c" style="animation-delay:1.33s" x="834.4" y="45.2" width="12" height="12" rx="2.5" fill="#39d353"><title>4 on Oct 12</title></rect>
+<rect class="c hot" style="animation-delay:1.33s" x="834.4" y="45.2" width="12" height="12" rx="2.5" fill="#7cffcb"><title>4 on Oct 12</title></rect>
+<rect class="c" style="animation-delay:1.36s" x="834.4" y="60.4" width="12" height="12" rx="2.5" fill="#161b22"><title>0 on Oct 13</title></rect>
 <text x="44" y="158.39999999999998" font-size="14" font-weight="700" fill="#e6edf3">260 contributions<tspan fill="#7d8590" font-weight="500"> in the last year</tspan></text>
-<text x="44" y="178.39999999999998" font-size="12" fill="#7d8590">Longest streak <tspan fill="#7cffcb" font-weight="700">9 days</tspan>   ·   Current streak <tspan fill="#7cffcb" font-weight="700">2 days</tspan>   ·   Best day <tspan fill="#7cffcb" font-weight="700">19</tspan></text>
+<text x="44" y="178.39999999999998" font-size="12" fill="#7d8590">Longest streak <tspan fill="#7cffcb" font-weight="700">9 days</tspan>   ·   Current streak <tspan fill="#7cffcb" font-weight="700">0 days</tspan>   ·   Best day <tspan fill="#7cffcb" font-weight="700">19</tspan></text>
 <text class="l" x="708" y="158.39999999999998" text-anchor="end">Less</text>
 <rect x="714" y="148.39999999999998" width="12" height="12" rx="2.5" fill="#161b22"/>
 <rect x="729" y="148.39999999999998" width="12" height="12" rx="2.5" fill="#0e4429"/>
